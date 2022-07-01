@@ -6,5 +6,5 @@ Trying different classification algorithms on a diabetes [dataset](https://www.k
 * Decision Trees
 * Random Forests
 * And Linear Models for Calssification:
-..* Logistic Regression
-..* Suport Vector Machines
+  * Logistic Regression
+  * Suport Vector Machines
